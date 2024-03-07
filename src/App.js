@@ -1,9 +1,7 @@
+import CurrencyConverter from "./components/CurrencyConverter/CurrencyConverter";
+
 function App() {
-  return (
-    <div>
-      <h1>Hello world</h1>
-    </div>
-  );
+  return <CurrencyConverter />;
 }
 
 export default App;
