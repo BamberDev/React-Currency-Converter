@@ -1,7 +1,7 @@
 import CurrencyConverter from "./components/CurrencyConverter/CurrencyConverter";
 
-function App() {
+const App = () => {
   return <CurrencyConverter />;
-}
+};
 
 export default App;
